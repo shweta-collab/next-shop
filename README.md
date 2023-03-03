@@ -2,7 +2,7 @@ Indoor plant shopping website
 
 ## Tech Stack used :
 
-Next js, React query, Strapi CMS
+Next js, tyepscript, React query, Strapi CMS
 
 ## Getting Started
 
